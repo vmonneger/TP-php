@@ -8,3 +8,6 @@ C'est pour cela qu'on peut retrouver en commentaire dans index.php l'utilisation
 ### Fonctionnel
 Quand on démarre l'app, les routes disponibles sont '/users' et '/articles'
 Il n'y a que des requête GET qui sont disponibles, seulement pour les users et les articles
+
+#### La DB
+La DB est disponible directement dans le repository
